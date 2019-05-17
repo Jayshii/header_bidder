@@ -1,0 +1,1 @@
+{"PublisherID":1,"PublisherInfo":[{"AdSlotID":985121,"AdInfo":{"Participants":["OpenX","NetApp","InMobi"],"Responses":[3,7,7],"Winner":"NetApp"}},{"AdSlotID":985122,"AdInfo":{"Participants":["OpenX","NetApp","InMobi"],"Responses":[8,3,3],"Winner":"InMobi"}}]}
